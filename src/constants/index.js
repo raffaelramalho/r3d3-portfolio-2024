@@ -7,8 +7,7 @@ import {
   chromecast,
   disc02,
   discord,
-  discordBlack,
-  facebook,
+  
   figma,
   file02,
   framer,
@@ -24,15 +23,14 @@ import {
   raindrop,
   recording01,
   recording03,
-  roadmap1,
+  
   roadmap2,
   roadmap3,
   roadmap4,
   searchMd,
   slack,
   sliders04,
-  telegram,
-  twitter,
+ 
   linkedin,
   yourlogo,
 } from "../assets";
@@ -50,8 +48,8 @@ export const navigation = [
   },
   {
     id: "2",
-    title: "?",
-    url: "#how-to-use",
+    title: "Nossas virtudes",
+    url: "#collaboration",
   },
   {
     id: "3",
@@ -109,21 +107,21 @@ export const roadmap = [
 ];
 
 export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+  "Com automação inteligente e segurança de primeira linha, é a solução perfeita para equipes que buscam trabalhar de forma mais eficiente.";
 
 export const collabContent = [
   {
     id: "0",
-    title: "Seamless Integration",
+    title: "Segurança de Ponta",
     text: collabText,
   },
   {
     id: "1",
-    title: "Smart Automation",
+    title: "Criatividade",
   },
   {
     id: "2",
-    title: "Top-notch Security",
+    title: "Flexibilidade",
   },
 ];
 

@@ -3,9 +3,9 @@ import check from "./check.svg";
 import brainwaveSymbol from "./brainwave-symbol.svg";
 import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
 import play from "./play.svg";
-import gradient from "./gradient.png";
-import smallSphere from "./4-small.png";
-import grid from "./grid.png";
+import gradient from "./gradient.webp";
+import smallSphere from "./4-small.webp";
+import grid from "./grid.webp";
 import check2 from "./check-02.svg";
 import loading1 from "./loading-01.svg";
 import yourlogo from "./yourlogo.svg";
@@ -18,12 +18,12 @@ import recording01 from "./recording-01.svg";
 import disc02 from "./disc-02.svg";
 import chromecast from "./chrome-cast.svg";
 import sliders04 from "./sliders-04.svg";
-import loading from "./loading.png";
-import background from "./background.jpg";
+import loading from "./loading.webp";
+import background from "./background.webp";
 
-import curve from "./hero/curve.png";
-import robot from "./hero/robot.jpg";
-import heroBackground from "./hero/hero-background.jpg";
+import curve from "./hero/curve.webp";
+import robot from "./hero/robot.webp";
+import heroBackground from "./hero/hero-background.webp";
 
 import curve1 from "./collaboration/curve-1.svg";
 import curve2 from "./collaboration/curve-2.svg";
@@ -36,9 +36,9 @@ import protopie from "./collaboration/protopie.png";
 import raindrop from "./collaboration/raindrop.png";
 import slack from "./collaboration/slack.png";
 
-import service1 from "./services/service-1.png";
-import service2 from "./services/service-2.png";
-import service3 from "./services/service-3.png";
+// import service1 from "./services/service-1.png";
+// import service2 from "./services/service-2.png";
+// import service3 from "./services/service-3.png";
 
 import lines from "./pricing/lines.svg";
 import stars from "./pricing/stars.svg";
@@ -114,9 +114,6 @@ export {
   protopie,
   raindrop,
   slack,
-  service1,
-  service2,
-  service3,
   lines,
   stars,
   coins,
