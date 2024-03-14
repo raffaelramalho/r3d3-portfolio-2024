@@ -58,18 +58,6 @@ export const navigation = [
     title: "Projetos Futuros",
     url: "#roadmap",
   },
-  {
-    id: "4",
-    title: "New account",
-    url: "#signup",
-    onlyMobile: true,
-  },
-  {
-    id: "5",
-    title: "Sign in",
-    url: "#login",
-    onlyMobile: true,
-  },
 ];
 
 export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
@@ -241,7 +229,7 @@ export const benefits = [
   {
     id: "0",
     title: "Criação de sites modernos",
-    text: "<texto>",
+    text: "C oncepção e implementação de websites que são visualmente atraentes, fáceis de navegar e otimizados para motores de busca",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -249,7 +237,7 @@ export const benefits = [
   {
     id: "1",
     title: "Desenvolvimento de Sistemas",
-    text: "<texto>",
+    text: "Criação de sistemas personalizados para atender às necessidades específicas de um negócio",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -258,7 +246,7 @@ export const benefits = [
   {
     id: "2",
     title: "Otimização de processos ",
-    text: "<texto>",
+    text: "Melhoria dos processos de negócios existentes para aumentar a eficiência, reduzir o desperdício e melhorar a qualidade",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
@@ -266,7 +254,7 @@ export const benefits = [
   {
     id: "3",
     title: "Social Media e Rebranding ",
-    text: "<texto>",
+    text: "Ajuda as empresas a construir uma presença forte nas redes sociais e a reformular sua imagem de marca para se manterem relevantes e atraentes para o público-alvo.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -275,7 +263,7 @@ export const benefits = [
   {
     id: "4",
     title: "Automação de Processo",
-    text: "<texto>",
+    text: "Utilização de tecnologia para automatizar tarefas repetitivas, reduzindo o tempo e o esforço necessários e aumentando a precisão",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -283,7 +271,7 @@ export const benefits = [
   {
     id: "5",
     title: "Consultoria TOTS RM & FLUIG",
-    text: "<texto>",
+    text: "Este serviço oferece consultoria especializada em TOTS RM & FLUIG, ajudando as empresas a aproveitar ao máximo essas plataformas",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
